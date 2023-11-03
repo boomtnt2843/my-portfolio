@@ -23,6 +23,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@fontsource/sriracha": "^5.0.17"
+		"@fontsource/sriracha": "^5.0.17",
+		"iconify-icon": "^1.0.8"
 	}
 }
